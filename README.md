@@ -96,12 +96,6 @@ cd PatientManagement.Tests
 dotnet test
 ```
 
-## Future Improvements
-
-- Implement authentication and authorization.
-- Introduce pagination for large datasets.
-- Add logging and monitoring for better debugging.
-
 ## Contributors
 
 - Ogunlaja David
