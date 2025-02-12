@@ -34,7 +34,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/project-management-api.git
+   git clone https://github.com/David-bare/Patient-Management-Api.git
    cd project-management-api
    ```
 2. Restore dependencies:
